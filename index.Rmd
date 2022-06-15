@@ -76,7 +76,7 @@ meta() %>%
     description = paste(
       "covidClassifyR: a Shiny app to streamline data analysis pipelines to enhance the monitoring of COVID-19 in Papua New Guinea"
     ),
-    url = "https://shaziaruybal.github.io/covidClassifyR_useR2022/covidClassifyR_useR2022.html",
+    url = "https://shaziaruybal.github.io/covidClassifyR_useR2022/",
     image = "https://shaziaruybal.github.io/covidClassifyR_useR2022/img/social-share-card.png",
     image_alt = paste(
       "Title slide of covidClassifyR: a Shiny app to streamline data analysis pipelines to enhance the monitoring of COVID-19 in Papua New Guinea"
